@@ -17,5 +17,7 @@ Bu oyunu çalıştırmak için aşağıdaki adımları izleyin:
 2. Bu dosyayı bilgisayarınıza indirin.
 3. Terminal veya komut istemcisini açın.
 4. Proje dizinine gidin ve aşağıdaki komutu çalıştırın:
+      ```bash
+   python kelime_oyunu.py
 
 
